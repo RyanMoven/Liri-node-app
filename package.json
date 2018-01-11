@@ -1,0 +1,23 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Package for HW",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanMoven/Liri-node-app.git"
+  },
+  "author": "Ryan Moven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanMoven/Liri-node-app/issues"
+  },
+  "homepage": "https://github.com/RyanMoven/Liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
